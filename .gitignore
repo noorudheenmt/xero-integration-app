@@ -1,0 +1,21 @@
+# Dependencies
+
+node_modules/
+
+# Environment variables and secrets
+
+env/
+.env
+.env.*
+
+# Keep example environment templates if needed
+
+!env/.env.example
+
+# Compiled output
+
+dist/
+
+# Logs
+
+*.log
